@@ -1,0 +1,10 @@
+C:\Users\Cente\source\repos\ARHIV\ARHIV\bin\Debug\ARHIV.exe.config
+C:\Users\Cente\source\repos\ARHIV\ARHIV\bin\Debug\ARHIV.exe
+C:\Users\Cente\source\repos\ARHIV\ARHIV\bin\Debug\ARHIV.pdb
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.csproj.AssemblyReference.cache
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.Form1.resources
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.Properties.Resources.resources
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.csproj.GenerateResource.cache
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.csproj.CoreCompileInputs.cache
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.exe
+C:\Users\Cente\source\repos\ARHIV\ARHIV\obj\Debug\ARHIV.pdb
